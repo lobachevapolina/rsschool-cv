@@ -6,7 +6,6 @@
 * **LinkedIn:** [polina-lobacheva](https://www.linkedin.com/in/polina-lobacheva-a94570237/)
 
 ## About Me
-
 I'm a Product Designer with strong UX expertise.  
 I work in Figma and have recently started learning frontend development to better understand the technical implementation of my designs.  
 I'm also interested in exploring the role of a developer to expand my skills and experience.

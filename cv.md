@@ -7,9 +7,9 @@
 ---
 ## About Me
 
-I am a **Product Designer** with strong **UX expertise**.  
-I work in **Figma** and have recently started learning **frontend development** to better understand the technical implementation of my designs.  
-I am also interested in exploring the role of a **developer** to expand my skills and experience.
+I'm a Product Designer with strong UX expertise.  
+I work in Figma and have recently started learning frontend development to better understand the technical implementation of my designs.  
+I'm also interested in exploring the role of a developer to expand my skills and experience.
 ---
 ## Skills 
 * HTML
@@ -31,7 +31,7 @@ console.log(result)
 ---
 ## Courses
 * HTML and CSS course on Udemy - in progress
-* RS Schools Course «JavaScript/Front-end. Stage 0» - in progress
+* RS Schools Course Front-end.Stage 0 - in progress
 ---
 ## English Level
 B2 - good command of spoken and written English

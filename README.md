@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lobachevapolina.github.io/rsschool-cv/cv

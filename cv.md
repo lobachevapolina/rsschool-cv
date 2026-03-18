@@ -1,11 +1,12 @@
 # Polina Lobacheva
 ---
 ## Contacts
-* **E-mail:**lobacheva.design@gmail.com
-* **GitHub:**[lobachevapolina](https://github.com/lobachevapolina)
-* **LinkedIn:**[polina-lobacheva](https://www.linkedin.com/in/polina-lobacheva-a94570237/)
+* **Email:** lobacheva.design@gmail.com
+* **GitHub:** [lobachevapolina](https://github.com/lobachevapolina)
+* **LinkedIn:** [polina-lobacheva](https://www.linkedin.com/in/polina-lobacheva-a94570237/)
 ---
 ## About Me
+
 I am a **Product Designer** with strong **UX expertise**.  
 I work in **Figma** and have recently started learning **frontend development** to better understand the technical implementation of my designs.  
 I am also interested in exploring the role of a **developer** to expand my skills and experience.
